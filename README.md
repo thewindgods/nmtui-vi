@@ -3,6 +3,8 @@
 A terminal UI for NetworkManager with vi keybindings, written in Go.
 Uses `nmcli` as its backend.
 
+<img width="967" height="577" alt="2026-04-27-195502_hyprshot" src="https://github.com/user-attachments/assets/8f3575c4-fdb4-436b-a037-cfe6a62a06df" />
+
 ## What it does
 
 - Browse, create, edit, and delete network connections
