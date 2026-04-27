@@ -13,8 +13,7 @@ Uses `nmcli` as its backend.
 - Scan for and connect to WiFi networks
 - Edit IPv4 and IPv6 settings (method, address, gateway, DNS)
 - Edit WiFi security settings (WPA/WPA2 Personal and Enterprise)
-- Toggle password visibility when editing WiFi connections
-- Theming via a plain-text config file, no recompile needed
+- Theming via a config file
 
 ## What it does not do
 
@@ -22,7 +21,6 @@ Uses `nmcli` as its backend.
 - Bond, bridge, VLAN, or team connection types
 - Proxy settings
 - Setting the system hostname
-- Activating connections from the editor on new (unsaved) connections
 
 ## Requirements
 
